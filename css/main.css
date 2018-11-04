@@ -1,0 +1,29 @@
+body {
+  background-color: #dbd6cf;
+  line-height: 1.5;
+}
+
+h1 {
+  color: #fff;
+  font-family: Bevan, sans-serif;
+}
+
+ul a {
+  background-color: #713837;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 4px;
+  padding: .5em, .75em;
+}
+
+ul a:hover {
+  background-color: #f33;
+}
+
+header {
+  display: inline-block;
+  margin: .3em;
+  padding: .6em;
+  background-color: #79756f;
+  border: 3px solid #595652;
+}
