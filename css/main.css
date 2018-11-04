@@ -9,13 +9,17 @@ h1 {
   text-align: center;
 }
 
-ul a{
+ul li {
+  list-style-type: none;
+}
+
+ul a {
   display: inline-block;
   background-color: #713837;
   color: #fff;
   text-decoration: none;
   border-radius: 4px;
-  padding: .6em, .75em;
+
 }
 
 ul a:hover {
