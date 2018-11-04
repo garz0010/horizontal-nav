@@ -5,7 +5,7 @@ body {
 
 h1 {
   color: #fff;
-  font-family: Bevan, sans-serif;
+  font-family: Bevan, serif;
   text-align: center;
 }
 
@@ -19,8 +19,8 @@ ul a {
   color: #fff;
   text-decoration: none;
   border-radius: 4px;
-  padding: .6em .5em .75em;
-  margin: 3em;
+  padding: .6em .75em;
+  margin: .3em;
 }
 
 ul a:hover {
